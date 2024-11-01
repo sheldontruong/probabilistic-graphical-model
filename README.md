@@ -1,1 +1,1 @@
-# probabilistic-graphical-model
+# Probabilistic Graphical Model
